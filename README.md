@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Vinicius
 #### I am a Front-end Developer
-![I am a Front-end Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 Currently i am studying to be a Full-Stack Developer.
 
