@@ -12,13 +12,10 @@ Skills: REACT / JS / HTML / CSS / BOOTSTRAP
   <p align=center>⚙️ &nbsp;GitHub Analytics</p>
   <p align="center">
   <img width="51%" src="https://github-readme-stats.vercel.app/api?username=Zakkart59&show_icons=true&count_private=true&hide_border=true&title_color=8b0000&icon_color=8b0000&text_color=c9d1d9&bg_color=0d1117" alt="Zakkart59 github stats" /> 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zakkart59&layout=compact&hide_border=true&title_color=46295A&text_color=46295A&bg_color=0d1117" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zakkart59&layout=compact&hide_border=true&title_color=9400D3&text_color=9400D3&bg_color=0d1117" />
   </p>
   </div>
-  
- ![Snake animation](https://github.com/Zakkart59/Zakkart59/blob/output/github-contribution-grid-snake.svg)
-
-
+ 
 ### Main skills:
 ![JAVASCRIPT](https://img.shields.io/badge/-Javascript-0D1117?style=for-the-badge&logo=JavaScript&logoColor=yellow&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp;
