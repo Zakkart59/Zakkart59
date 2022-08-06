@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Vinicius
+### Hi there 👋, my name is Vinícius
 #### I am a Front-end Developer 💻
 
 Currently i am studying to be a Full-Stack Developer.
