@@ -6,7 +6,7 @@ Currently i am studying to be a Full-Stack Developer.
 Skills: REACT / JS / HTML / CSS / BOOTSTRAP
 
 - 🌱 I’m currently learning Python 
-- 📫 How to reach me: feliciano.vinicius@tutamail.com 
+- 📫 How to reach me: feliciano.vinicius@proton.me
 <br>
  <div>
   <p align=center>⚙️ &nbsp;GitHub Analytics</p>
