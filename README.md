@@ -1,11 +1,11 @@
 ### Hi there 👋, my name is Vinícius
-#### I am a Front-end Developer 💻
+#### I'm a Front-end Developer 💻
 
-Currently i am studying to be a Full-Stack Developer.
+Currently I'm studying to be a Full-Stack Developer.
 
 Skills: REACT / JS / HTML / CSS / BOOTSTRAP
 
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently learning Python and Ruby
 - 📫 How to reach me: feliciano.vinicius@proton.me
 <br>
  <div>
